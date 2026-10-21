@@ -1,0 +1,21 @@
+[
+  {"question": "How many temperature presets does the K2 kettle have?", "source": "brightleaf-kettle-k2-guide.pdf", "page": 1, "expect": "five"},
+  {"question": "How long can Keep Warm hold the temperature?", "source": "brightleaf-kettle-k2-guide.pdf", "page": 1, "expect": "30 minutes"},
+  {"question": "What is the maximum fill level of the kettle?", "source": "brightleaf-kettle-k2-guide.pdf", "page": 1, "expect": "1.7"},
+  {"question": "How often should I descale in a hard water area?", "source": "brightleaf-kettle-k2-guide.pdf", "page": 2, "expect": "4 weeks"},
+  {"question": "What does error E2 mean?", "source": "brightleaf-kettle-k2-guide.pdf", "page": 2, "expect": "empty"},
+  {"question": "Can the kettle connect to Wi-Fi?", "source": "brightleaf-kettle-k2-guide.pdf", "page": 2, "expect": "Bluetooth"},
+  {"question": "How many days do I have to return an unused product?", "source": "brightleaf-returns-and-warranty.pdf", "page": 1, "expect": "30 days"},
+  {"question": "Who pays return shipping when I simply changed my mind?", "source": "brightleaf-returns-and-warranty.pdf", "page": 1, "expect": "6.95"},
+  {"question": "How long does a refund take?", "source": "brightleaf-returns-and-warranty.pdf", "page": 1, "expect": "5 business days"},
+  {"question": "How can I get a 3 year warranty?", "source": "brightleaf-returns-and-warranty.pdf", "page": 1, "expect": "60 days"},
+  {"question": "Is limescale damage covered by the warranty?", "source": "brightleaf-returns-and-warranty.pdf", "page": 1, "expect": "not cover"},
+  {"question": "What do I need to send for a warranty claim?", "source": "brightleaf-returns-and-warranty.pdf", "page": 1, "expect": "serial number"},
+  {"question": "How much does express delivery cost?", "source": "brightleaf-support-faq.pdf", "page": 1, "expect": "9.90"},
+  {"question": "Until when can I cancel my order?", "source": "brightleaf-support-faq.pdf", "page": 1, "expect": "packed"},
+  {"question": "What are the support hours?", "source": "brightleaf-support-faq.pdf", "page": 1, "expect": "18:00"},
+  {"question": "How much is a replacement limescale filter?", "source": "brightleaf-support-faq.pdf", "page": 1, "expect": "4.50"},
+  {"question": "Do you ship to Australia?", "source": null, "page": null, "expect": null},
+  {"question": "Does the K2 kettle work with Alexa?", "source": null, "page": null, "expect": null},
+  {"question": "What is the CEO's name?", "source": null, "page": null, "expect": null}
+]
